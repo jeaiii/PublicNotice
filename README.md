@@ -14,3 +14,6 @@ All arbitration clauses contained within other contracts and/or presented for di
 All such clauses or agreements are deemed severed, excluded, and/or unenforceable if a valid contract is found to exist in US court.
 
 ### James Edward Anhalt III
+<a rel="me" href="https://mastodon.gamedev.place/@jeaiii">Mastodon</a>
+
+<a href="https://www.linkedin.com/in/james-anhalt-iii-8815a2/">LinkedIn</a>
